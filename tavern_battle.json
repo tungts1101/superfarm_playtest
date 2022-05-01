@@ -2,51 +2,51 @@
 	{
 		"uId" : 106219758,
 		"UserName" : "u_CuongNongDan",
-		"total" : 116
+		"total" : 252
 	},
 	{
 		"uId" : 106219768,
 		"UserName" : "u_1712799",
-		"total" : 85
+		"total" : 192
 	},
 	{
 		"uId" : 106219791,
 		"UserName" : "u_kietpt",
-		"total" : 55
+		"total" : 133
+	},
+	{
+		"uId" : 106219774,
+		"UserName" : "u_BinhLV2",
+		"total" : 95
 	},
 	{
 		"uId" : 106219783,
 		"UserName" : "u_simo69",
-		"total" : 40
+		"total" : 70
 	},
 	{
 		"uId" : 106219808,
 		"UserName" : "u_duongtt2",
-		"total" : 29
-	},
-	{
-		"uId" : 106219827,
-		"UserName" : "u_Robee",
-		"total" : 21
-	},
-	{
-		"uId" : 106219787,
-		"UserName" : "u_Lapras",
-		"total" : 21
-	},
-	{
-		"uId" : 106219773,
-		"UserName" : "u_khanhdv",
-		"total" : 17
-	},
-	{
-		"uId" : 106219776,
-		"UserName" : "u_nazzinoz",
-		"total" : 13
+		"total" : 58
 	},
 	{
 		"uId" : 106219828,
 		"UserName" : "u_skymail261",
-		"total" : 11
+		"total" : 55
+	},
+	{
+		"uId" : 106219838,
+		"UserName" : "u_ndh",
+		"total" : 52
+	},
+	{
+		"uId" : 106219787,
+		"UserName" : "u_Lapras",
+		"total" : 47
+	},
+	{
+		"uId" : 106219827,
+		"UserName" : "u_Robee",
+		"total" : 41
 	}
 ]
