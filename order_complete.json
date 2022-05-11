@@ -7,7 +7,7 @@
 	{
 		"uId" : 106219750,
 		"UserName" : "u_redtula",
-		"total" : 708
+		"total" : 826
 	},
 	{
 		"uId" : 106219791,
@@ -25,19 +25,14 @@
 		"total" : 504
 	},
 	{
-		"uId" : 106219758,
-		"UserName" : "u_CuongNongDan",
-		"total" : 489
-	},
-	{
 		"uId" : 106219808,
 		"UserName" : "u_duongtt2",
-		"total" : 462
+		"total" : 473
 	},
 	{
 		"uId" : 106219854,
 		"UserName" : "u_simo100",
-		"total" : 402
+		"total" : 437
 	},
 	{
 		"uId" : 106219828,
@@ -45,8 +40,13 @@
 		"total" : 386
 	},
 	{
-		"uId" : 106219787,
-		"UserName" : "u_Lapras",
-		"total" : 384
+		"uId" : 106219744,
+		"UserName" : "u_cachoigame",
+		"total" : 372
+	},
+	{
+		"uId" : 106219889,
+		"UserName" : "u_JoeTran",
+		"total" : 337
 	}
 ]

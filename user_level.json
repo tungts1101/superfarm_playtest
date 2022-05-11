@@ -1,10 +1,5 @@
 [
 	{
-		"uId" : 106219758,
-		"UserName" : "u_CuongNongDan",
-		"total" : 27
-	},
-	{
 		"uId" : 106219768,
 		"UserName" : "u_1712799",
 		"total" : 25
@@ -15,14 +10,14 @@
 		"total" : 24
 	},
 	{
+		"uId" : 106219750,
+		"UserName" : "u_redtula",
+		"total" : 24
+	},
+	{
 		"uId" : 106219791,
 		"UserName" : "u_kietpt",
 		"total" : 23
-	},
-	{
-		"uId" : 106219750,
-		"UserName" : "u_redtula",
-		"total" : 21
 	},
 	{
 		"uId" : 106219783,
@@ -30,48 +25,28 @@
 		"total" : 20
 	},
 	{
-		"uId" : 106219808,
-		"UserName" : "u_duongtt2",
-		"total" : 18
-	},
-	{
 		"uId" : 106219802,
 		"UserName" : "u_thinhld2",
 		"total" : 18
 	},
 	{
-		"uId" : 106219787,
-		"UserName" : "u_Lapras",
-		"total" : 17
+		"uId" : 106219808,
+		"UserName" : "u_duongtt2",
+		"total" : 18
+	},
+	{
+		"uId" : 106219854,
+		"UserName" : "u_simo100",
+		"total" : 15
+	},
+	{
+		"uId" : 106219744,
+		"UserName" : "u_cachoigame",
+		"total" : 15
 	},
 	{
 		"uId" : 106219828,
 		"UserName" : "u_skymail261",
 		"total" : 15
-	},
-	{
-		"uId" : 106219827,
-		"UserName" : "u_Robee",
-		"total" : 14
-	},
-	{
-		"uId" : 106219838,
-		"UserName" : "u_ndh",
-		"total" : 13
-	},
-	{
-		"uId" : 106219867,
-		"UserName" : "u_thangancut123",
-		"total" : 13
-	},
-	{
-		"uId" : 106219769,
-		"UserName" : "u_quocpa",
-		"total" : 13
-	},
-	{
-		"uId" : 106219831,
-		"UserName" : "u_diepmt",
-		"total" : 13
 	}
 ]
